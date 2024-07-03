@@ -26,6 +26,7 @@ to run, test and build a Check. More advanced documentation can be found [here][
 For more information on integrations, please reference our [documentation][11] and
 [knowledge base][12]. You can also visit our [help page][13] to connect with us.
 
+New commit for tests
 
 [1]: https://raw.githubusercontent.com/DataDog/integrations-core/badges/test-results.svg
 [2]: https://github.com/DataDog/integrations-core/actions/workflows/master.yml
